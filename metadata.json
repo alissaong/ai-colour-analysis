@@ -1,0 +1,6 @@
+{
+  "name": "HueAI",
+  "description": "AI-powered seasonal color analysis app to discover your personal skin undertones, hair & eye color palette, best matching swatches, and style recommendations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
